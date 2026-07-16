@@ -15,7 +15,7 @@ My Portfolio -https://arinsamuel-portfolio.vercel.app
 ---
 
 ### 👨‍💻 About Me
-"I am a passionate MERN Stack Developer who loves building scalable, responsive, and user-centric full-stack web applications. Beyond coding, I am always exploring new technologies and optimizing workflows."
+"I am a passionate MERN Stack Developer who loves building scalable, responsive and user-centric full-stack web applications. Beyond coding, I am always exploring new technologies and optimizing workflows."
 
 - 📍 **Location:** Bangladesh
 - 📧 **Email:** arinsarker07@gmail.com
@@ -39,9 +39,9 @@ My Portfolio -https://arinsamuel-portfolio.vercel.app
   </a>
 </p>
 <ul>
-  <li><strong>Core:</strong> HTML5, CSS3, JavaScript (ES6+)</li>
-  <li><strong>Frameworks & Libraries:</strong> React.js, Next.js</li>
-  <li><strong>Styling:</strong> Tailwind CSS, Bootstrap</li>
+  <li><strong>Languages & Core:</strong> HTML5, CSS3, JavaScript (ES6+)</li>
+  <li><strong>Frameworks & Libraries:</strong> React.js, Next.js (App Router / SSR)</li>
+  <li><strong>Styling & UI Components:</strong> Tailwind CSS, Hero UI, Bootstrap</li>
 </ul>
 
 ---

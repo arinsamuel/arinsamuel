@@ -102,7 +102,7 @@ My Portfolio -https://arinsamuel-portfolio.vercel.app
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arinsarker07-oss&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Arin's GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arinsamuel&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Arin's GitHub Activity Graph" width="100%" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />

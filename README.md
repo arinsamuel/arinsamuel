@@ -8,7 +8,7 @@ My Portfolio -https://arinsamuel-portfolio.vercel.app
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Arin+Sarker;MERN+Stack+Developer;Building+Full-Stack+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Arin+Samuel;MERN+Stack+Developer;Building+Full-Stack+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 

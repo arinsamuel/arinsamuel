@@ -1,4 +1,4 @@
-# Hi 👋, I'm Arin Sarker
+# Hi 👋, I'm Arin Samuel
 ### MERN Stack Developer | Life-Long Learner
 My Portfolio -https://arinsamuel-portfolio.vercel.app
 
